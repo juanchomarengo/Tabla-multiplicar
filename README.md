@@ -1,4 +1,4 @@
-# Notas: 
+# Tablas de Multiplicar: 
 Aplicacion creada en el marco de una practica de Node.js
 
 ## Descripcion:
