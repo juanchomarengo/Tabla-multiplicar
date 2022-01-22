@@ -8,7 +8,7 @@ Tambien se crea un archivo de texto en el directorio ` ./salida `
 ## Como ejecutar la app:
 
 Para correr la app debe clonar el repositorio en su escritorio o donde usted crea correcto. Luego debemos abrir una terminal en la carpeta de la app y correr el comando ```npm i``` para que se instalen todas las dependecias necesarias para que la aplicacion funcione. 
-Una vez hecho lo mencionado anteriormente ya puede ejecutar comandos como el que se muestras a continuacion.
+Una vez hecho lo mencionado anteriormente ya puede ejecutar comandos como el que se muestra a continuacion.
 
 ## Ejemplo de comando y salida:
 
