@@ -1,5 +1,5 @@
 # Tablas de Multiplicar: 
-Aplicacion creada en el marco de una practica de Node.js
+Aplicacion creada en el marco de una practica de Node.js.  Version: ```0.0.1```
 
 ## Descripcion:
 Aplicacion de consola donde uno le puede indicar la base para crear su tabla y hasta que numero quiere que sea.
